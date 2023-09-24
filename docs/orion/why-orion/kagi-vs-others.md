@@ -1,6 +1,6 @@
 # Orion vs. Chrome, Firefox, & Others
 
-Google and Mozilla have made great technological strides over the past decades. We’re grateful for those efforts because they help us take the next step in browser evolution. Orion has superior performance, memory use, and battery efficiency compared to any non-WebKit browser on a macOS.
+Google and Mozilla have made great technological strides over the past decades. We’re grateful for those efforts because they help us take the next step in browser evolution. Orion has superior performance, memory use, and battery efficiency compared to any non-WebKit browser on macOS.
 
 Orion is the first browser to have a zero-telemetry policy, meaning it will never "phone home" with any of your data. It also comes with a default blocker that knocks out ads and trackers, keeping websites respectful of our users.
 
